@@ -1,0 +1,17 @@
+{
+  "name": "css-3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakYuChan/CSS-3D.git"
+  },
+  "author": "Franky Venus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakYuChan/CSS-3D/issues"
+  },
+  "homepage": "https://github.com/TakYuChan/CSS-3D#readme"
+}
